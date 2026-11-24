@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.seko.worddeck",
+        "sha256_cert_fingerprints": ["7D:BA:16:33:49:94:84:E2:9A:C4:0E:80:BD:97:6A:12:0B:A2:E5:B7:CE:0A:84:06:48:E1:CE:A2:B5:03:B0:03"]
+      }
+    }]
